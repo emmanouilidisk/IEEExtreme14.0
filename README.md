@@ -1,6 +1,6 @@
 # IEEExtreme14.0
 <p align="center">
-  <img src="ieeextreme_img.png" | height="600">
+  <img src="image.png">
 </p>  
 
 - one folder for each problem
