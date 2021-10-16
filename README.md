@@ -3,6 +3,8 @@
   <img src="image.png">
 </p>  
 
+IEEEXtreme 14.0 Solutions by CaffeineOverflow Team (top 10% worldwide)
+
 - one folder for each problem
   - problem_name.py
   - task_statement --> Stathis
@@ -23,3 +25,13 @@
  - Linearly Seperable Samples
  - Non-overlapping Palindromes
  - Rotational Lights
+
+# Ranking 
+- Worldwide rank: 168/2155 teams
+- Region rank: 45
+
+# Team Members
+The team compromised from the following 3 members (in alphabetical order):  
+- Emmanouilidis Konstantinos ()
+- Karypidis Stathis ()
+- Makridis Vassilis ()
