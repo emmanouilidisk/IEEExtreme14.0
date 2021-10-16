@@ -24,6 +24,6 @@ IEEEXtreme 14.0 Solutions by CaffeineOverflow Team (top 10% worldwide)
 
 # Team Members
 The team compromised from the following 3 members (in alphabetical order):  
-- Emmanouilidis Konstantinos ()
-- Karypidis Stathis ()
-- Makridis Vassilis ()
+- Emmanouilidis Konstantinos 
+- Karypidis Stathis [(github)](https://github.com/Sta8is)
+- Makridis Vassilis [(github)](https://github.com/BillMc98)
