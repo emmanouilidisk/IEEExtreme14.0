@@ -1,9 +1,11 @@
 # IEEExtreme14.0
+
+IEEEXtreme 14.0 Solutions by CaffeineOverflow Team (:1st_place_medal: top 10% worldwide). 
 <p align="center">
-  <img src="image.png">
+  <img src="image.png" width="500" height="200">
 </p>  
 
-IEEEXtreme 14.0 Solutions by CaffeineOverflow Team (top 10% worldwide)
+
 
 # Problems
  - [Game of life 2020](https://github.com/emmanouilidisk/IEEExtreme14.0/tree/master/game_of_life_2020) (100%)
