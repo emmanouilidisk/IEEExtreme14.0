@@ -5,14 +5,6 @@
 
 IEEEXtreme 14.0 Solutions by CaffeineOverflow Team (top 10% worldwide)
 
-- one folder for each problem
-  - problem_name.py
-  - task_statement --> Stathis
-- undescore
-- lowercase letters
-- link redirecting to each problem
-- comments to be added to code
-
 # Problems
  - ARM_constant_multiplication (39%)
  - Game of life 2020
