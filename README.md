@@ -29,7 +29,7 @@ IEEEXtreme 14.0 Solutions by CaffeineOverflow Team (:1st_place_medal: top 10% wo
 - Region rank: 45
 
 # Team Members
-The team compromised from the following 3 members (in alphabetical order):  
+The team comprised from the following 3 members (in alphabetical order):  
 - Emmanouilidis Konstantinos 
 - Karypidis Stathis [(github)](https://github.com/Sta8is)
 - Makridis Vassilis [(github)](https://github.com/BillMc98)
